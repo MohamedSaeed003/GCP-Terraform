@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+iti-last-lab-d225acbd2c28.json
+terraform.tfstate
+terraform.tfstate.backup
