@@ -1,5 +1,3 @@
-GCP-Terraform Project
-
 ## What this repo does
 
 This repository contains Terraform modules to create a small GCP lab environment including a VPC, NAT, VM, firewall rules and a GKE cluster.
